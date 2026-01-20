@@ -19,30 +19,17 @@
 
 | Студент | Репозиторий |
 |---------|-------------|
-| **Шабанов Даниил** | [fertak08/YP-01](https://github.com/fertak08/-01](https://github.com/fertak08/PKOvchinnikova_21IS_4semestr_Shabanov?tab=readme-ov-file)) |
-| **Малиневский Егор** | [Leendeseqy/YP-01](https://github.com/Leendeseqy/YP-01) |
-| **Поздняков Дмитрий** | [Mitya1606/yapp-messenger](https://github.com/Mitya1606/yapp-messenger) |
-| **Ларетина Дарья** | [Al-Daria/Laretina](https://github.com/Al-Daria/Laretina) |
-| **Фисенко Анна** | [Fisai/Fisenko](https://github.com/Fisai/Fisenko) |
-| **Силаков Максим** | [Grozard/Practic-work-19.01.2026---13.02.2026](https://github.com/Grozard/Practic-work-19.01.2026---13.02.2026) |
-| **Курносенко Александр** | [Alixandros/19.01.2026](https://github.com/Alixandros/19.01.2026) |
-| **Поздняков Владимир** | [Voviy-ux/all-quests](https://github.com/Voviy-ux/all-quests) |
-| **Юхин Лавр** | [PananiXX/-01](https://github.com/PananiXX/-01) |
+| **Шабанов Даниил** | [fertak08/PKOvchinnikova_21IS_4semestr_Shabanov](https://github.com/fertak08/PKOvchinnikova_21IS_4semestr_Shabanov) |
+| **Малиневский Егор** | [Leendeseqy/PKOvchinnikova_21IS_4semestr_Malinevskiy](https://github.com/Leendeseqy/PKOvchinnikova_21IS_4semestr_Malinevskiy) |
+| **Поздняков Дмитрий** | [Mitya1606/PKOvchinnikova_21IS_4semestr_PozdnyakovD](https://github.com/Mitya1606/PKOvchinnikova_21IS_4semestr_PozdnyakovD) |
+| **Ларетина Дарья** | [Al-Daria/PKOvchinnikova_21IS_4semestr_Laretina](https://github.com/Al-Daria/PKOvchinnikova_21IS_4semestr_Laretina) |
+| **Фисенко Анна** | [Fisai/PKOvchinikova_21IS_4semestr_FisenkoAA](https://github.com/Fisai/PKOvchinikova_21IS_4semestr_FisenkoAA) |
+| **Силаков Максим** | [Grozard/PKOvchinnikova_21IS_4semestr_Silakov](https://github.com/Grozard/PKOvchinnikova_21IS_4semestr_Silakov) |
+| **Курносенко Александр** | [Alixandros/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C](https://github.com/Alixandros/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C) |
+| **Поздняков Владимир** | [Voviy-ux/PKOvchinnikova_21IS_PozdnyakovVR](https://github.com/Voviy-ux/PKOvchinnikova_21IS_PozdnyakovVR) |
+| **Юхин Лавр** | [PananiXX/PKOvchinnikova_21IS_4semestr_Yukhin](https://github.com/PananiXX/PKOvchinnikova_21IS_4semestr_Yukhin) |
 | **Тараканова Андрей** | *[20.01.26](https://github.com/andreitar3/20.01.26)* |
-| **Микштас Артурас** | *[001](https://github.com/Mrkirk1/001)* |
-
-Leendeseqy
-fertak08
-Mitya1606
-Al-Daria
-Fisai
-Grozard
-Alixandros
-Voviy-ux
-PananiXX
-andreitar3
-Mrkirk1
-Teacher001-top
+| **Микштас Артурас** | *[Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas](https://github.com/Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas)* |
 
 ---
 
@@ -197,9 +184,8 @@ Teacher001-top
 ├── 📄 Техническое задание.md         # Technical Specification
 ├── 📄 Пользовательские истории.md    # User Stories
 ├── 📄 План тестирования.md           # Test Plan
-├── 📄 Руководство пользователя.md    # User Manual
-└── 📂 client/                       # Клиентский код (если включен)
-    └── 📂 server/                   # Серверный код (если включен)
+└── 📄 Руководство пользователя.md    # User Manual
+ 
 ```
 
 ---
@@ -292,7 +278,7 @@ Teacher001-top
 
 ## 📞 Контактная информация
 
-**Студент:** Шабанов Даниил Алексеевич
+**Студент:** Шабанов Даниил Алексеевич  
 **Группа:** 21ИС-24  
 **Преподаватель:** Бобошко Михаил Николаевич  
 
