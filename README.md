@@ -19,7 +19,7 @@
 
 | Студент | Репозиторий |
 |---------|-------------|
-| **Шабанов Даниил** | [fertak08/-01](https://github.com/fertak08/-01) |
+| **Шабанов Даниил** | [[fertak08/-01](https://github.com/fertak08/-01](https://github.com/fertak08/PKOvchinnikova_21IS_4semestr_Shabanov?tab=readme-ov-file)) |
 | **Малиневский Егор** | [Leendeseqy/YP-01](https://github.com/Leendeseqy/YP-01) |
 | **Поздняков Дмитрий** | [Mitya1606/yapp-messenger](https://github.com/Mitya1606/yapp-messenger) |
 | **Ларетина Дарья** | [Al-Daria/Laretina](https://github.com/Al-Daria/Laretina) |
