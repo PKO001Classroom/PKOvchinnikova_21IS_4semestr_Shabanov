@@ -11,25 +11,45 @@
 - **Дата выполнения:** 17 февраля 2026
 
 ---
+### 📁Структура репозитория
+
+Проект/
+├── .github/workflows/ # Скрипты для GitHub Actions
+├── Документация/ # Вся проектная документация
+│ ├── Бизнес-требования.md
+│ ├── Техническое задание.md
+│ ├── Архитектурная документация.md
+│ ├── План тестирования.md
+│ ├── Руководство пользователя.md
+│ ├── Руководство по сопровождению.md
+│ ├── Приемка.md
+│ ├── Глоссарий.md
+│ ├── Пользовательские истории.md
+│ └── Системный анализ.md
+├── 111_типов_документов.md
+├── diagram.dio # Исходные файлы UML-диаграмм
+├── README.md # Этот файл
+├── Конспект.md # Учебные материалы
+└── План УП.01.md # План учебной практики
 
 ---
 
 ## 👥 Группа 21ИС-24
 
 | Номер | ФИО студента | Ник-ссылка на репозиторий |
-|---------|---------|-------------|
-| 1 | **Курносенко Александр Сергеевич** | [Alixandros](https://github.com/Alixandros/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C) |
-| 2 | **Ларетина Дарья Алексеевна** | [Al-Daria](https://github.com/Al-Daria/PKOvchinnikova_21IS_4semestr_Laretina) |
-| 3 | **Малиневский Егор Сергеевич** | [Leendeseqy](https://github.com/Leendeseqy/PKOvchinnikova_21IS_4semestr_Malinevskiy) |
-| 4 | **Микштас Артурас Мариусо** | [Mrkirk1](https://github.com/Mrkirk1/PKOvchinnikova_21IS_4semestr_Mikshtas) |
-| 5 | **Мирошкин Егор Денисович** | [SWaT-137](https://github.com/SWaT-137/PKOvchinnikova_21IS_4semestr_Miroshkin) |
-| 6 | **Поздняков Владимир Романович** | [Voviy-ux](https://github.com/Voviy-ux/PKOvchinnikova_21IS_PozdnyakovVR-main) |
-| 7 | **Поздняков Дмитрий Романович** | [Mitya1606](https://github.com/Mitya1606/PKOvchinnikova_21IS_4semestr_PozdnyakovD) |
+|-------|--------------|---------------------------|
+| 1 | **Курносенко Александр Сергеевич** | [Alixandros](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Kyrnosenko.A.C) |
+| 2 | **Ларетина Дарья Алексеевна** | [Al-Daria](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Laretina) |
+| 3 | **Малиневский Егор Сергеевич** | [Leendeseqy](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Malinevskiy) |
+| 4 | **Микштас Артурас Мариусо** | [Mrkirk1](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Mikshtas) |
+| 5 | **Мирошкин Егор Денисович** | [SWaT-137](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Miroshkin) |
+| 6 | **Поздняков Владимир Романович** | [Voviy-ux](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_PozdnyakovVR-main) |
+| 7 | **Поздняков Дмитрий Романович** | [Mitya1606](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_PozdnyakovD) |
 | 8 | **Полсачев Матвей Анатольевич** | [⏳В Процессе...⏳]() |
 | 9 | **Рукас Вероника Олеговна** | [⏳В Процессе...⏳]() |
-| 10 | **Силаков Максим Андреевич** | [Grozard](https://github.com/Grozard/PKOvchinnikova_21IS_4semestr_Silakov) |
-| 11 | **Тараканова Андрей Андреевич** | [andreitar3](https://github.com/andreitar3/PKOvchinnikova_21IS_4semestr_Tarakanov) |
+| 10 | **Силаков Максим Андреевич** | [Grozard](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Silakov) |
+| 11 | **Тараканова Андрей Андреевич** | [andreitar3](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Tarakanov) |
 | 12 | **Удин Дмитрий Максимович** | [prostoflytre](https://github.com/prostoflytre/modelup) |
-| 13 | **Фисенко Анна Андреевна** | [Fisai](https://github.com/Fisai/PKOvchinikova_21IS_4semestr_FisenkoAA) |
-| 14 | **Шабанов Даниил Алексеевич** | [fertak08](https://github.com/fertak08/PKOvchinnikova_21IS_4semestr_Shabanov) |
-| 15 | **Юхин Лавр Юрьевич** | [PananiXX](https://github.com/PananiXX/PKOvchinnikova_21IS_4semestr_Yukhin) |
+| 13 | **Фисенко Анна Андреевна** | [Fisai](https://github.com/PKO001Classroom/PKOvchinikova_21IS_4semestr_FisenkoAA) |
+| 14 | **Шабанов Даниил Алексеевич** | [fertak08](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Shabanov) |
+| 15 | **Юхин Лавр Юрьевич** | [PananiXX](https://github.com/PKO001Classroom/PKOvchinnikova_21IS_4semestr_Yukhin) |
